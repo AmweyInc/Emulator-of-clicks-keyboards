@@ -12,3 +12,12 @@ How to use it:
 3. To call the button press enter the following command in the while loop: "source.key (you_key, you_latency);"
 You can see all the buttons in keys.h, the delay is calculated in ms,
 1 second = 1000 ms.
+
+
+Version 0.2 Alpha
+
+Changelog: 
+
+	Added full support mouse events
+  
+	Optimized alghorith keyboard events
