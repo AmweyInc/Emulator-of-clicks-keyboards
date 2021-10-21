@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Source.cpp
+D:\python\Visual Studio 2020\Code\slavik\Source.cpp(26,14): warning C4244: аргумент: преобразование "DWORD" в "BYTE", возможна потеря данных
+D:\python\Visual Studio 2020\Code\slavik\Source.cpp(30,14): warning C4244: аргумент: преобразование "DWORD" в "BYTE", возможна потеря данных
+  Создание кода...
+  slavik.vcxproj -> D:\python\Visual Studio 2020\Code\slavik\Debug\Emulator.exe

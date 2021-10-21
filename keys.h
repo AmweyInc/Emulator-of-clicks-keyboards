@@ -2,11 +2,15 @@
 /*
 * created by Amwey
 */
+
+
 #include "Header.h"
 
 //MOUSE
-DWORD m_left = 0x01;
-DWORD m_right = 0x02;
+DWORD m_left_d = 0x0002;
+DWORD m_left_u = 0x0004;
+DWORD m_right_d = 0x0008;
+DWORD m_right_u = 0x0010;
 DWORD m_middle = 0x04;
 
 //Service

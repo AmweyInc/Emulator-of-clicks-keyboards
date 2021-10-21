@@ -1,0 +1,2 @@
+D:\python\Visual Studio 2020\Code\slavik\Debug\Emulator.exe
+D:\python\Visual Studio 2020\Code\slavik\Debug\Emulator.pdb
