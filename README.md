@@ -3,7 +3,9 @@ Imitation of keystrokes by means of software is executed at a low level, making 
 The software is developed solely for educational purposes, the author is not responsible for the use of this software.
 This is not the final build, there will be more updates.
 The program emulates pressing at the level of the south bridge, due to which detection of the emulator is impossible!
-The program works lower than winAPI32!
+
+The program works below than winAPI32!
+
 How to use it:
 1. First you need to download a visual studio or any other IDE in which C / C ++ compilation is possible.
 2. After starting the project, we can see main.cpp, it has an endless while loop, it already has an example of how to use it.
